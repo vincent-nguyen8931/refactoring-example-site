@@ -69,8 +69,8 @@ p {
     float: right;
     margin-left: 25px;
 }
-
-.content {
+/* changed .content to main to match semantic element in index.html. */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
