@@ -42,6 +42,7 @@ The following change is to use semantic html elements instead of simply div clas
 ![header](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Header-html.png?raw=true)
 
 This change requires an update to the css style sheet. All of the below headers were classes and changed to allow use of the semantic html header.
+
 ![header-css](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Header-css.png?raw=true)
 
 The anchor was working improperly and required an addition of an id. The addition of the below id made the anchor in the html properly in the webpage.
