@@ -47,7 +47,7 @@ This change requires an update to the css style sheet. All of the below headers 
 
 ![header-css](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Header-css.png?raw=true)
 
-The anchor was working improperly and required an addition of an id. The addition of the below id made the anchor in the html work properly in the webpage.
+The anchor was not working and required an addition of an id. The addition of the below id made the anchor in the html work properly in the webpage.
 
 ![ID-add](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/ID-add-to-seo.png?raw=true)
 
