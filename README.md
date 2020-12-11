@@ -51,6 +51,10 @@ The anchor was working improperly and required an addition of an id. The additio
 
 ![ID-add](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/ID-add-to-seo.png?raw=true)
 
+Below is one of the alt text added to an image. The text here displays when the image does not load or if a user is unable to see the image.
+
+![alt-text](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/alt-text.png?raw=true)
+
 
 Additional changes to div classes to the html to use semantic htmls are below at their respective lines. These changes were made to improve SEO. 
 
