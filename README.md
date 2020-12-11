@@ -39,7 +39,7 @@ At the top of the html, I made a change to the title to allow a more concise and
 
 ![title](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Title-change.png?raw=true)
 
-The following change is to use semantic html elements instead of simply div class="name".
+The following change is to use semantic html elements instead of div class="name".
 
 ![header](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Header-html.png?raw=true)
 
@@ -47,7 +47,7 @@ This change requires an update to the css style sheet. All of the below headers 
 
 ![header-css](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Header-css.png?raw=true)
 
-The anchor was working improperly and required an addition of an id. The addition of the below id made the anchor in the html properly in the webpage.
+The anchor was working improperly and required an addition of an id. The addition of the below id made the anchor in the html work properly in the webpage.
 
 ![ID-add](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/ID-add-to-seo.png?raw=true)
 
@@ -56,7 +56,7 @@ Below is one of the alt text added to an image. The text here displays when the 
 ![alt-text](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/alt-text.png?raw=true)
 
 
-Additional changes to div classes to the html to use semantic htmls are below at their respective lines. These changes were made to improve SEO. 
+Additional changes from div classes to the html to use semantic htmls are below at their respective lines. These changes were made to improve SEO. 
 
 ![main](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/main-1.png?raw=true)
 
@@ -69,7 +69,7 @@ Additional changes to div classes to the html to use semantic htmls are below at
 Lessons Learned
 ----------------
 
-An attempt was made at adding an alt text to an image file being pulled through the css file. The below change does not work in the way I expect it to with the alt text replacing the images location. Upon additional reading about alt text, if an image is considered unimportant or not paramount, the image will be pulled through css due to the expectation of an alt text not being required. 
+An attempt was made at adding an alt text to an image file being pulled through the css file. The below change does not work in the way I expect it to with the alt text replacing the image's location. Upon additional reading about alt text, if an image is considered unimportant or not paramount, the image will be pulled through css due to the expectation of an alt text not being required. 
 
 ![css](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Alt-for-css-image.png?raw=true)
 
