@@ -36,9 +36,11 @@ Changes made
 Some of these changes include adding alt text to images and using semantic elements in the html.
 
 At the top of the html, I made a change to the title to allow a more concise and descriptive title.
+
 ![title](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Title-change.png?raw=true)
 
 The following change is to use semantic html elements instead of simply div class="name".
+
 ![header](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Header-html.png?raw=true)
 
 This change requires an update to the css style sheet. All of the below headers were classes and changed to allow use of the semantic html header.
@@ -46,6 +48,7 @@ This change requires an update to the css style sheet. All of the below headers 
 ![header-css](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/Header-css.png?raw=true)
 
 The anchor was working improperly and required an addition of an id. The addition of the below id made the anchor in the html properly in the webpage.
+
 ![ID-add](https://github.com/vincent-nguyen8931/refactoring-example-site/blob/main/screenshots/ID-add-to-seo.png?raw=true)
 
 
